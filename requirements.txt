@@ -1,2 +1,2 @@
-groq  api
+groq
 streamlit
