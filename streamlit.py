@@ -19,7 +19,7 @@ def chat_with_groq(prompt):
 
 # Streamlit app
 def main():
-    st.title("Streamlit Chatbot")
+    st.title("Chatbot")
 
     # Initialize chat history
     chat_history = []
